@@ -2,7 +2,7 @@ import os
 import shutil
 from PIL import Image
 from instabot import Bot
-# sdfsdf sd
+# sdfsdf
 
 def clean_up(i):
     dir = "config"
